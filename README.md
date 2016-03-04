@@ -10,7 +10,6 @@
 	<li>Developed in Visual Studio 2015.</li>
 	<li>ASP.NET Web Forms with C#.</li>
 	<li>Contact form with required fields, only numbers, only letters, email format validation.</li>
-	<li>Boostrap as.</li>
 	<li><a href="http://bootswatch.com">Bootswatch.com</a> Bootstrap United theme for main styles.</li>
 	<li><a href="https://getbootstrap.com/examples/carousel/">Carousel</a> Template for web page layout.</li>
 	<li>Content and images taken from <a href="http://ecuador.travel/">Ecuador.travel</a> for educational purposes only.</li>
