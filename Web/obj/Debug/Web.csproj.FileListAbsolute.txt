@@ -13,8 +13,9 @@ C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Web.dll.config
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Web.dll
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Web.pdb
-C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\obj\Debug\Web.dll
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\obj\Debug\Web.pdb
+C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\bin\roslyn\Microsoft.CodeAnalysis.dll
